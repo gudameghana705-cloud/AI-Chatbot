@@ -1,0 +1,11 @@
+what is cloud computing|Cloud computing provides computing services over the internet.
+what is cybersecurity|Cybersecurity protects computers, networks, and data from digital attacks.
+what is web development|Web development is the process of creating websites and web applications.
+what is software|Software is a collection of programs and instructions that tell a computer what to do.
+what is hardware|Hardware refers to the physical components of a computer.
+what is operating system|An operating system manages computer hardware and provides services for applications.
+what is database management|Database management is the process of storing, organizing, and managing data.
+what is javascript|JavaScript is a programming language commonly used to make web pages interactive.
+what is html|HTML is the standard markup language used to create the structure of web pages.
+what is css|CSS is used to style and design web pages.what is cloud computing|Cloud computing provides computing services over the internet.
+what is github|GitHub is a platform used to store and manage code.
